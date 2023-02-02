@@ -1,0 +1,23 @@
+{
+  "name": "share-app-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizza7311/share-app-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pizza7311/share-app-backend/issues"
+  },
+  "homepage": "https://github.com/pizza7311/share-app-backend#readme",
+  "dependencies": {
+    "@koa/router": "^12.0.0",
+    "koa": "^2.14.1"
+  }
+}
